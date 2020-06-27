@@ -1,6 +1,6 @@
 ---
 layout: global
-title: 快速上手指南
+title: 新手快速上手指南
 group: Overview
 priority: 1
 ---
